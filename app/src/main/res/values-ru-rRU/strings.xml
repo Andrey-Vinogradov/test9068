@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VCAM</string>
+    <string name="switch1">Всегда показывать недостаток прав</string>
+    <string name="switch2">Временно выключить модуль ( Вкл - выключить )</string>
+    <string name="switch3">Проигрывать звук видео</string>
+    <string name="switch4">Всегда использовать отдельные директории ( Не смотря на разрешения )</string>
+    <string name="switch5">Выключить toast сообщения</string>
+    <string name="permission_lack_warn">Нет разрешений</string>
+    <string name="permission_description">Права доступа к файлам используется для конфигурации. Если вы откажите, то можете создавать файлы вручную</string>
+    <string name="positive">Конечно</string>
+    <string name="negative">Отказать</string>
+    <string name="stream_template">rtsp://192.168.0.1:8554/live.stream</string>
+    <string name="your_stream_url">Ссылка стрима</string>
+    <string name="connect">Подключиться</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="invalid_url">Неправильная ссылка</string>
+</resources>
